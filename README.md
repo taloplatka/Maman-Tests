@@ -1,4 +1,4 @@
-# Mamam-Tests
+# Maman-Tests
 Unit tests for Mamans (Assignments) in the Open University
 
 # Disclaimer
